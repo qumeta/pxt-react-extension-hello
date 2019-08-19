@@ -53,7 +53,7 @@ npm run deploy
 
 - [ ] Once built, the extension will be hosted on GitHub pages.
 
-https://qumeta.github.io/pxt-react-extension-hello
+https://github.com/qumeta/pxt-react-extension-hello
 
 - [ ] Go to the MakeCode editor and add this repo as an extension to a project,
       you should see your button show up in the desired namespace.

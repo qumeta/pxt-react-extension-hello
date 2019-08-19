@@ -10,7 +10,7 @@
   "testFiles": ["test.ts"],
   "public": true,
   "extension": {
-    "namespace": "basic",
+    "namespace": "custom",
     "label": "Custom editor",
     "localUrl": "http://127.0.0.1:8100/index.html"
   }
